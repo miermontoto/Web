@@ -1,3 +1,6 @@
 [submodule "PL/2324-tew1-41"]
 	path = PL/2324-tew1-41
 	url = https://github.com/TEWgijon/2324-tew1-41.git
+[submodule "PL/tew-2324-4-UO283319-lab-jee"]
+	path = PL/tew-2324-4-UO283319-lab-jee
+	url = https://github.com/miermontoto/tew-2324-4-UO283319-lab-jee
